@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/netapp.storagegrid/commit/5f8478771f683520b8cec75f6600876258e5037e",
       "git:hexsha": "5f8478771f683520b8cec75f6600876258e5037e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "21.17.0"
     },
     {

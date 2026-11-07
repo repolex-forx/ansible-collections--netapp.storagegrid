@@ -180,6 +180,9 @@
         "blob/62e8845c6a4b29eb54d61da9b20ef9caa63f4b58.nq.gz",
         "blob/6467d3ca52c51f9b06745aa75eca90cb629750f3.nq.gz",
         "blob/56c13ad0b281adb7778c523b2bd40eb4272b70f4.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/5f8478771f683520b8cec75f6600876258e5037e/chunk-001.nq.gz"
       ]
     }
   ],
